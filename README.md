@@ -24,5 +24,5 @@ ensure interactionDUI
 ensure interactionMenu
 
 ensure [qb]
-ensure keep-vendingMachine
+ensure keep-vendingMachines
 ```
