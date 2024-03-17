@@ -1,6 +1,7 @@
 Config = Config or {}
 
-Config.target = "ox_target" -- interactionMenu / ox_target / qb-target
+Config.target = "interactionMenu" -- interactionMenu / ox_target / qb-target
+Config.framework = 'esx'          -- qb / esx
 
 Config.animations = {
     dispense = {
